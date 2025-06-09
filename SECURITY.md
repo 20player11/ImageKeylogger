@@ -54,7 +54,8 @@ All users must:
 Add this header to any derived code:
 
 ```# SECURITY NOTICE: This tool is for authorized testing only.  
-# Misuse violates 18 U.S. Code § 1030 and related laws.```
+# Misuse violates 18 U.S. Code § 1030 and related laws.
+```
 Include liability disclaimer:
 
 > By running this software, you accept full legal responsibility for any damages.  
