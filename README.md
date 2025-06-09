@@ -50,7 +50,7 @@ Install dependencies:
 
 `pip install pyinstaller keyboard pillow`
 
-🚀 Usage Instructions
+## 🚀 Usage Instructions
 Step 1: Build the Payload
 `python image_keylogger.py --image "real_image.jpg" --output "malicious.exe"`
 Step 2: Prepare for Distribution
@@ -89,7 +89,7 @@ Filename format: syslog_<PROCESS_ID>.dat
 
 Contains timestamped keystroke records
 
-🛡️ Detection and Prevention
+## 🛡️ Detection and Prevention
 How Antivirus Detects This
 Signature Detection: Matches against known keylogger patterns
 
@@ -132,7 +132,7 @@ User behavior analytics (UBA)
 
 Privilege access management
 
-⚖️ Legal and Ethical Considerations
+## ⚖️ Legal and Ethical Considerations
 Relevant Laws (United States)
 Computer Fraud and Abuse Act (CFAA)
 
@@ -159,13 +159,11 @@ Data Handling: Immediately destroy collected data after testing
 
 Disclosure: Report findings to system owners
 
-🧪 Safe Testing Environment
+## 🧪 Safe Testing Environment
 Virtual Machine Setup:
 
-bash
-# Create isolated environment
-virtualbox --createvm "KeyloggerTest" --ostype Windows10_64
-virtualbox modifyvm "KeyloggerTest" --natpf1 "guestssh,tcp,,2222,,22"
+`virtualbox --createvm "KeyloggerTest" --ostype Windows10_64
+virtualbox modifyvm "KeyloggerTest" --natpf1 "guestssh,tcp,,2222,,22"`
 Safety Protocols:
 
 Disable network connectivity
@@ -184,7 +182,7 @@ Wipe all logs and artifacts
 
 Document findings for defensive research
 
-📚 Educational Value
+## 📚 Educational Value
 This toolkit demonstrates:
 
 Social Engineering Tactics: Exploiting trust in familiar file types
@@ -195,7 +193,7 @@ Obfuscation Methods: Executable masquerading as media
 
 Defensive Gaps: Why traditional AV sometimes fails
 
-🔚 Conclusion
+## 🔚 Conclusion
 This documentation has presented a comprehensive view of an image-based keylogger toolkit for educational purposes. Remember:
 
 Ethical cybersecurity professionals:
