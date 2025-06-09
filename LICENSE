@@ -1,21 +1,82 @@
-MIT License
+Version 1.0 - Ethical Use Only
 
-Copyright (c) 2025 20player11
+📜 Preamble
+This license governs the use of the associated software ("Image Keylogger Toolkit"). By accessing, copying, or modifying this software, you agree to these binding terms. Violations will result in legal action under applicable cybercrime laws.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+🚫 Prohibited Actions
+No Redistribution
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+You may not share, sell, or mirror this software without express written permission from the original author.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+No Modifications
+
+Reverse engineering, decompiling, or altering the code to create derivative works is forbidden.
+
+No Malicious Use
+
+Any deployment on non-consensual systems violates:
+
+Computer Fraud and Abuse Act (CFAA)
+
+General Data Protection Regulation (GDPR)
+
+Digital Millennium Copyright Act (DMCA)
+
+No Removal of Attribution
+
+The original copyright notice and this license must remain intact in all copies used for ethical research.
+
+✅ Permitted Uses
+Ethical Research
+
+Testing only on systems you own or have explicit written permission to assess.
+
+Academic Study
+
+Approved cybersecurity courses may use this toolkit with instructor supervision.
+
+Defensive Security
+
+Allowed for developing detection rules or hardening systems if documented responsibly.
+
+⚖️ Legal Consequences
+Violators will face:
+
+Civil Penalties: Up to $150,000 per infringement (17 U.S.C. § 504)
+
+Criminal Charges: Under 18 U.S.C. § 1030 (Unauthorized Computer Access)
+
+Data Protection Fines: Up to 4% of global revenue under GDPR
+
+🔐 Ownership & Enforcement
+Copyright
+
+All rights reserved © [Your Name/Organization] 2024.
+
+Registration: [Copyright Office Case # if registered]
+
+Jurisdiction
+
+Disputes will be litigated in [Your Country/State] courts.
+
+Reporting Violations
+
+Email legal notices to: [your-email@domain.com]
+
+Include evidence (screenshots, network logs).
+
+📝 Acceptance
+By using this software, you affirm under penalty of perjury that:
+
+You understand the legal risks
+
+You will not use this for unlawful surveillance
+
+You accept liability for any violations
+
+[ ] I AGREE TO THESE TERMS  
+[ ] I HAVE READ THE WARNINGS  
+⚠️ Final Warning
+This license does not grant immunity under hacking laws. Consult legal counsel before use. Ethical hackers: Document all testing with signed penetration testing agreements.
+
+Last Updated: [9.6.2025]
