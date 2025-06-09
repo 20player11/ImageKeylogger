@@ -38,17 +38,17 @@ Python 3.8+
 Required packages:
 
 bash
-'pip install pyinstaller keyboard pillow'
+`pip install pyinstaller keyboard pillow`
 Operating System: Windows (macOS/Linux requires modifications)
 
 ## 🛠️ Installation & Setup
 Create a dedicated directory:
 
 bash
-'mkdir KeyloggerIMG && cd KeyloggerIMG'
+`mkdir KeyloggerIMG && cd KeyloggerIMG`
 Save the script as KeyloggerIMG.py
 
 Install dependencies:
 
 bash
-'pip install pyinstaller keyboard pillow'
+`pip install pyinstaller keyboard pillow`
